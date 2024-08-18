@@ -1,0 +1,12 @@
+.appBox{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.appBox button{
+  font-size: 25px;
+  font-family: "Philosopher", sans-serif;
+  font-weight: 500;
+}
